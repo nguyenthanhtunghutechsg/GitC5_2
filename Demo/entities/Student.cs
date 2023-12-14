@@ -7,5 +7,6 @@ namespace Demo.entities
 {
     public class Student
     {
+        public int ID { get; set; }
     }
 }
